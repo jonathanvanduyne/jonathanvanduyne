@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jonathanvanduyne
+- 👀 I’m interested in technology and automation
+- 🌱 I’m currently learning AWS and cloud computing skills
+- 💞️ I’m looking to collaborate on anything challenging or with exposure to new ideas or ways of thinking
+- 📫 How to reach me --
+  -   email // jonathanvanduyne@gmail.com
+  -   LinkedIn // https://www.linkedin.com/in/jonathanvanduyne/
