@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanvanduyne
 - 👀 Interests - full-stack development and automation
-- 🌱 Currently Learning - Azure and cloud computing skills
+- 🌱 Currently Learning - AWS and cloud computing skills
 - 👬 Collaboration - love to work together on anything with exposure to new ideas and ways of thinking
 - 📫 How to reach me --
   -   email // jonathanvanduyne@gmail.com
