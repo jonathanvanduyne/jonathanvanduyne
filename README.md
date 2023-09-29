@@ -1,4 +1,4 @@
-<br>Hi, I'm Jonathan VanDuyne</br>
+<h1>Hi, I'm Jonathan VanDuyne</h1>
 <br>💻 Full-stack Developer | 🤖 Automation Enthusiast</br>
 <br>👥 Collaborative thinker passionate about innovative ideas.</br>
 <br>📧 Reach me at:</br>
