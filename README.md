@@ -1,6 +1,6 @@
 Hi, I'm Jonathan VanDuyne.
--💻 Full-stack Developer | 🤖 Automation Enthusiast
--👥 Collaborative thinker passionate about innovative ideas.
--📧 Reach me at:
--Email: jonathanvanduyne@gmail.com
--LinkedIn: linkedin.com/in/jonathanvanduyne
+<p>💻 Full-stack Developer | 🤖 Automation Enthusiast</p>
+<p>👥 Collaborative thinker passionate about innovative ideas.</p>
+<p>📧 Reach me at:</p>
+<p>Email: jonathanvanduyne@gmail.com</p>
+<p>LinkedIn: linkedin.com/in/jonathanvanduyne</p>
